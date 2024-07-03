@@ -9,6 +9,7 @@ public class Tests
 
     [TestCase("20 5 /", "4")]
     [TestCase("100 5 /", "20")]
+    [TestCase("100 5 +", "105")]
     public void Calculate_simple_operation(string input, string output)
     {
 

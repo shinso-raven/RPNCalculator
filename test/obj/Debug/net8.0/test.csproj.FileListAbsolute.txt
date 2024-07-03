@@ -103,3 +103,4 @@ C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desa
 C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Calculator\test\obj\Debug\net8.0\test.pdb
 C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Calculator\test\obj\Debug\net8.0\test.genruntimeconfig.cache
 C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Calculator\test\obj\Debug\net8.0\ref\test.dll
+C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\Calculator\test\obj\Debug\net8.0\test.sourcelink.json
