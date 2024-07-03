@@ -17,7 +17,6 @@
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\radha\\OneDrive\\01 DESARROLLO\\Practicas de programación\\Tendencias desarollo de software\\Calculator\\NuGet.Config",
           "C:\\Users\\radha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -26,7 +25,8 @@
           "net8.0"
         ],
         "sources": {
-          "https://nuget.pkg.github.com/NAMESPACE/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
