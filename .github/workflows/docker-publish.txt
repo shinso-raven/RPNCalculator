@@ -2,13 +2,13 @@ name: publish
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
 
 env:
   # Use docker.io for Docker Hub if empty
   REGISTRY: ghcr.io
-  #   IMAGE_NAME: ${{ github.actor }}/movil-infinitygpp:latest
-  IMAGE_NAME: gpplatam/web-infinitygpp:latest
+  #   IMAGE_NAME: ${{ github.actor }}/RPNCalculator:latest
+  IMAGE_NAME: shinso-raven/RPNCalculator:latest
 
 jobs:
   publish:

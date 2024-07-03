@@ -14,8 +14,6 @@ jobs:
         uses: actions/setup-dotnet@v3
         with:
           dotnet-version: 8
-      # - name: Install dependencies
-      #   run: npm install
 
       - name: Install dependencies
         run: dotnet restore
